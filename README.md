@@ -19,6 +19,14 @@ The dataset used in this project is from:
 
 Dataset contains 8,226 images across 6 classes.
 
+## Model Files
+
+Model files can be downloaded from:
+
+https://drive.google.com/drive/folders/12HaueFU0Nl_KGFU7jKcXjr9w6gcaJDMB?usp=drive_link
+
+Place them in the `model/` folder before running the app.
+
 ## Installation
 
 ```bash
