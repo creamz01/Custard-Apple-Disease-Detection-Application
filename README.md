@@ -23,3 +23,4 @@ Dataset contains 8,226 images across 6 classes.
 
 ```bash
 pip install -r requirements.txt
+streamlit run app.py
